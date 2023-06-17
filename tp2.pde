@@ -1,4 +1,4 @@
-
+//Chavero Martina 92720/3
 PImage imagen;
 color bg,obj,cursor;
 int t,y,x;
