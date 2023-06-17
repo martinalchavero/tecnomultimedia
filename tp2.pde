@@ -1,4 +1,6 @@
 //Chavero Martina 92720/3
+//https://youtu.be/1aIjXkrgW3Q (tambien en comentario del colaboratorio)
+
 PImage imagen;
 color bg,obj,cursor;
 int t,y,x;
