@@ -11,8 +11,6 @@ function setup() {
   createCanvas(600,600);
   imageMode(CENTER);
   estado=0;
-  posX=600;
-  posY=400;
   inicializarZ();
   marcador=0;
 }
