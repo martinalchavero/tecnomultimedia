@@ -9,7 +9,7 @@
 //posY
 
 
-//--arreglo de hojas
+//arreglo de hojas ???
 //posX hojas
 //color hojas
 //tamaño hojas
