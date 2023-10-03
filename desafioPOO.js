@@ -9,8 +9,7 @@
 
 
 //---------metodo actualizar (no entendi tanto esta parte)
-//si clima es igual a ventoso???????
-//actualizar arboles[]????????
+
 
 
 //---------metodo dibujar
