@@ -1,3 +1,5 @@
+//Chavero Martina 92720/3
+//video: 
 let j;
 
 function setup() {
