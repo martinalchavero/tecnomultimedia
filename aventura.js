@@ -33,8 +33,6 @@ class aventura{
     
   }
   
-  //SEPARAR LAS PANTALLAS DE AVENTURA CON UN ARREGLO + VER SI SE PUEDE ENTREGAR EN WEB
-  
   //-----------------------------------  
   dibujar(txt,imagen){
     
@@ -438,10 +436,6 @@ class aventura{
   
   
   botones(){
-    //boton volver     ---> this.b[1].boton(50,50,40,40);
-    //boton decision 1 ---> this.b[0].boton(150,450,60,6);
-    //boton decision 2 ---> this.b[2].boton(400,450,60,60);
-    //boton siguiente  ---> this.b[3].boton(500,500,60,60);
     
     this.cambiopantalla(0,1,0); //inicio a creditos
     this.cambiopantalla(1,0,1); //creditos a inicio
