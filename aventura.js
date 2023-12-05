@@ -27,7 +27,7 @@ class aventura{
   //----------------------------------- 
   actualizar(){
     if(this.estado==19){
-      this.j.actualizar(20,6);
+      this.j.actualizar();
       this.resultado();
     }
     
