@@ -1,6 +1,6 @@
 class aventura{
   constructor(){
-    this.estado=18;
+    this.estado=0;
     
     this.j=new juego(); //clase juego
     this.flechaDer=loadImage('assets/flecha-continuar.png');
